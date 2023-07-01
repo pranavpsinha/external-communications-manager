@@ -9,6 +9,7 @@ You can install the External Communications Manager package from npm using the f
 ```shell
 npm install external-communications-manager
 ```
+[external-communications-manager](https://www.npmjs.com/package/external-communications-manager/v/1.0.7?activeTab=versions)
 
 ## Summary
 There are many feature embedded into this one single package viz.
