@@ -1,6 +1,7 @@
 {
   "name": "external-communications-manager",
-  "version": "1.0.7",
+  "email": "pranavpsinha@duck.com",
+  "version": "1.0.8",
   "description": "A single solution for all your outgoing communications like: API calls[axios], Mailer(sms:2factor,email:AWS), MessageQueue[Kafka], Storage[AWS-S3,Cache(Redis),HDD(Local),SFTP] as a plugin interface. Just set some env properties, and start solving your problems.",
   "main": "index.js",
   "scripts": {
@@ -39,6 +40,11 @@
     "multer-s3": "2.10.0",
     "redis": "^4.1.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "hhttps://github.com/pranavpsinha/external-communications-manager.git"
+  },
+  "homepage": "https://github.com/pranavpsinha/external-communications-manager.git",  
   "author": "pranavpsinha",
   "license": "ISC"
 }
